@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PruebitaThanya" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="PruebitaThanya" target="16" />
       <module name="PruebitaThanyaT" target="16" />
     </bytecodeTargetLevel>
   </component>
